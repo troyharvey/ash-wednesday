@@ -1,2 +1,1 @@
-# Ash Wednesday
-<http://troyharvey.github.com/ash-wednesday/>
+![](https://raw.githubusercontent.com/troyharvey/ash-wednesday/master/screenshot.png)
